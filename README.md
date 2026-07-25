@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0908,100:ffb000&height=200&section=header&text=Afshan&fontSize=60&fontColor=e9e2d0&animation=fadeIn&fontAlignY=38&desc=Building%20software%20that%20ships&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0908,100:ffb000&height=200&section=header&text=Mohamed Afshan Allapichai &fontSize=60&fontColor=e9e2d0&animation=fadeIn&fontAlignY=38&desc=Building%20software%20that%20ships&descAlignY=55&descSize=18" />
 
 <!-- Avatar (real circular PNG, since GitHub strips inline CSS) -->
 <br>
