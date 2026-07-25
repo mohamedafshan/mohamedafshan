@@ -3,8 +3,10 @@
 <!-- Animated wave banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0908,100:ffb000&height=200&section=header&text=Afshan&fontSize=60&fontColor=e9e2d0&animation=fadeIn&fontAlignY=38&desc=Building%20software%20that%20ships&descAlignY=55&descSize=18" />
 
-<!-- Avatar -->
-<img src="./assets/avatar.jpeg" width="150" height="150" style="border-radius:50%; border:3px solid #ffb000; object-fit:cover; margin-top:-60px;" />
+<!-- Avatar (real circular PNG, since GitHub strips inline CSS) -->
+<br>
+<img src="./assets/avatar-circle.png" width="140" height="140" />
+<br><br>
 
 <!-- Typing animation -->
 <a href="#">
@@ -66,12 +68,12 @@ I design and build full products end to end — backend APIs, web frontends, and
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0a0908&title_color=ffb000&icon_color=ffb000&text_color=e9e2d0" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0a0908&title_color=ffb000&text_color=e9e2d0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedafshan&show_icons=true&theme=dark&hide_border=true&bg_color=0a0908&title_color=ffb000&icon_color=ffb000&text_color=e9e2d0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedafshan&layout=compact&theme=dark&hide_border=true&bg_color=0a0908&title_color=ffb000&text_color=e9e2d0" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0a0908&ring=ffb000&fire=ffb000&currStreakLabel=e9e2d0" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedafshan&theme=dark&hide_border=true&background=0a0908&ring=ffb000&fire=ffb000&currStreakLabel=e9e2d0" />
 
 </div>
 
