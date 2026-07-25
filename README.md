@@ -68,8 +68,7 @@ I design and build full products end to end — backend APIs, web frontends, and
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedafshan&show_icons=true&theme=dark&hide_border=true&bg_color=0a0908&title_color=ffb000&icon_color=ffb000&text_color=e9e2d0" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedafshan&layout=compact&theme=dark&hide_border=true&bg_color=0a0908&title_color=ffb000&text_color=e9e2d0" />
+
 
 <br>
 
