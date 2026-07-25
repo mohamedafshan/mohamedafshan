@@ -23,7 +23,6 @@ I design and build full products end to end — backend APIs, web frontends, and
 
 - 🔭 Currently building CRM, POS, and client web platforms
 - 🧠 Exploring: cleaner API architecture, offline-first apps, and AI-assisted workflows
-- ⚡ Tool of choice: Cursor AI as a daily coding assistant
 - 🌱 Always learning — right now digging into new tooling and frameworks on the side
 - 📍 Based in Sri Lanka, working with clients worldwide
 
